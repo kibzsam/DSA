@@ -1,2 +1,3 @@
-# DSA
-Documenting the progress for learning at least 76 datastructures and algorithm questions 
+# DATA STRUCTURES AND ALGORITHMS
+This repository will contain DSA practice questions and solutions.
+
